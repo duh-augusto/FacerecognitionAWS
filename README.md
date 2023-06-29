@@ -12,7 +12,7 @@
 
 - Prof. Dr. Will Ricardo dos Santos Machado
 
-# Documentação
+# Apresentação do projeto em vídeo
 
 <ol>
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
