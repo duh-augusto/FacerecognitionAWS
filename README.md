@@ -23,7 +23,7 @@
 
   Para rodar o código é necessário inserir os seguintes comandos pelo "Windows PowerShell":
   - cd (seu diretorio com os arquivos do projeto)
-  - python .\(programa que deseja rodar)
+  - python .\\(programa que deseja rodar)
 
     Após o uso, caso os frames trabalhados não sejam apagados consequentemente, basta dar o seguinte comando
     - python .\deleteframe.py
