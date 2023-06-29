@@ -18,6 +18,15 @@
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 </ol>
 
+# Instruções para uso
+  Preparação do ambiente AWS, após instalação de todos requisitos, basta inserir o arquivo "video.mp4" na pasta "test", encontrada em "TrabAdaptado\aws\code\test".
+
+  Para rodar o código é necessário inserir os seguintes comandos pelo "Windows PowerShell":
+  - cd (seu diretorio com os arquivos do projeto)
+  - python .\(programa que deseja rodar)
+
+    Após o uso, caso os frames trabalhados não sejam apagados consequentemente, basta dar o seguinte comando
+    - python .\deleteframe.py
 
 # Código
 
@@ -25,7 +34,7 @@
 
 # Vídeo
 
-<li><a href="TrabAdaptado.rar"> Código Fonte</a></li>
+<li><a href="video.mp4"> vídeo utilizado</a></li>
 
 # Apresentação
 
