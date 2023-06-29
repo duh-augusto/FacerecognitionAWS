@@ -16,7 +16,6 @@
 
 <ol>
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
 # Código
